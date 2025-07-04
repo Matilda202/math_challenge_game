@@ -1,11 +1,13 @@
 # 🧠 Math Challenge Game
 
 Welcome to **Math Challenge!**  
-A simple and fun terminal-based game that tests your basic arithmetic skills under pressure. This is a great tool for sharpening your math and improving your speed and accuracy!
+A simple and fun terminal-based game that tests your basic arithmetic skills under pressure.
+
+This project started as a fun way to spend some free time and play around with Python — just a small challenge that turned into a working game!
 
 ---
 
-## 🎮 Features
+## Features
 
 - ✅ Randomly generated math problems using `+`, `-`, and `*`
 - ⏱️ Timed session to track how fast you complete the quiz
@@ -13,7 +15,7 @@ A simple and fun terminal-based game that tests your basic arithmetic skills und
 - 🎯 Score breakdown and performance message at the end
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 - You will be given **10 math problems**.
 - Solve each one as fast as you can.
@@ -22,7 +24,6 @@ A simple and fun terminal-based game that tests your basic arithmetic skills und
 ---
 
 ## 🚀 Getting Started
-
 
 1. Clone the repository or download the script:
      git clone https://github.com/Matilda202/math_challenge_game.git
